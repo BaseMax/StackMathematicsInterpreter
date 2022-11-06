@@ -2,7 +2,7 @@
  * @Name: My Mathematics Interpreter Implementation In Java
  * @Author: Max Base
  * @Date: 2022-10-31
- * @Class: Data Structure, Dr. Mahsa Soheil Shamaee
+ * @Repository: https://github.com/BaseMax/StackMathematicsInterpreter
  */
 
 import java.util.Stack;
