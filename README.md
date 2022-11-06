@@ -2,6 +2,8 @@
 
 My Mathematics Interpreter Implementation In Java
 
+This is an example to show when and why we use Stack Structure in projects and as you see it's really important.
+
 ## Using
 
 ```java
